@@ -17,8 +17,6 @@ I am also familiar with Python, Django, Flask, fast API TesnorFlow, Pytorch, Pan
 
 I have worked with cloud platforms include AWS and Azure, CICD pipelines, Cloudflare and Netlify.</h4>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=blaze0330&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=blaze0330&theme=tokyonight&layout=compact)
 
 <div align="center">
  <b> Languages and Tools:
