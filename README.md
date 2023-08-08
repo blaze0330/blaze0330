@@ -3,14 +3,14 @@
   <a href="https://github.com/secret-star1202"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;👨‍💻%20Fullstack%20Web%20Developer;🌐%20Senior%20Python%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%208%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<h4>Previously I have worked as a software engineer and have 8 years of experience in this role.
+<h4>I have worked as a software engineer.
 
 Over my early career I have had the fortune of working under brilliant team leads who have drilled into me the importance of clean, readable and
 maintainable code.
 
 I like to think of myself as framework agnostic and have strong enough fundamentals in basic web technologies that I can quickly adapt to whatever framework is needed (or lack thereof). I also care deeply about UI/UX and hope to create a more accessible web.
 
-Currently I am focusing on expanding my skillset learning about Data Analytics and AI.</h4>
+</h4>
 
 ## Technology
 
